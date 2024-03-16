@@ -1,5 +1,8 @@
 # ui--browser--semantic
-UI library targeting the browser for semantic data
+
+UI library targeting the browser for displaying semantic data. This is not for rendering semantic data on a website.
+
+https://github.com/rappstack/domain--server has a jsonld module to render semantic data.
 
 ## References
 
