@@ -6,6 +6,97 @@ https://github.com/rappstack/domain--server has a jsonld module to render semant
 
 ## References
 
+### Google Supported Types
+
+https://support.google.com/webmasters/answer/7445569?hl=en#zippy=%2Csupported-types
+
+- [Article](https://developers.google.com/search/docs/appearance/structured-data/article)
+  - Article
+  - NewsArticle
+  - BlogPosting
+- [Breadcrumb](https://developers.google.com/search/docs/appearance/structured-data/breadcrumb)
+  - BreadcrumbList
+- [Carousel](https://developers.google.com/search/docs/appearance/structured-data/carousel)
+  - ItemList
+- [Course list item](https://developers.google.com/search/docs/appearance/structured-data/course)
+  - Course
+- [Course info](https://developers.google.com/search/docs/appearance/structured-data/course-info)
+  - Course
+  - CourseInstance
+- [Discussion forum](https://developers.google.com/search/docs/appearance/structured-data/discussion-forum)
+  - DiscussionForumPosting
+- [Dataset](https://developers.google.com/search/docs/appearance/structured-data/dataset)
+  - Dataset
+  - DataCatalog
+  - DataDownload
+- [Education Q&A](https://developers.google.com/search/docs/appearance/structured-data/qapage)
+  - QAPage
+- [Employer aggregate rating](https://developers.google.com/search/docs/appearance/structured-data/employer-rating)
+  - EmployerAggregateRating
+- [Estimated salary](https://developers.google.com/search/docs/appearance/structured-data/estimated-salary)
+  - Occupation
+- [Event](https://developers.google.com/search/docs/appearance/structured-data/event)
+  - Event
+- [FAQ](https://developers.google.com/search/docs/appearance/structured-data/faqpage)
+  - FAQPage
+  - Question
+  - Answer
+- [Fact check](https://developers.google.com/search/docs/appearance/structured-data/factcheck)
+  - ClaimReview
+- [Image metadata](https://developers.google.com/search/docs/appearance/structured-data/image-license-metadata)
+- [Job posting](https://developers.google.com/search/docs/appearance/structured-data/job-posting)
+  - JobPosting
+- [Learning video](https://developers.google.com/search/docs/appearance/structured-data/learning-video)
+  - LearningResource
+  - VideoObject
+  - Clip
+- [Local business](https://developers.google.com/search/docs/appearance/structured-data/local-business)
+  - LocalBusiness
+- [Math solvers](https://developers.google.com/search/docs/appearance/structured-data/math-solvers)
+  - MathSolver
+- [Movie](https://developers.google.com/search/docs/appearance/structured-data/movie)
+  - Movie
+- [Merchant listings](https://developers.google.com/search/docs/appearance/structured-data/product#merchant-listing_product)
+  - Product
+  - Review
+  - Offer
+- [Organization](https://developers.google.com/search/docs/appearance/structured-data/organization)
+  - Organization
+- [Paywalled content](https://developers.google.com/search/docs/appearance/structured-data/paywalled-content)
+  - CreativeWork
+- [Practice Problems](https://developers.google.com/search/docs/appearance/structured-data/practice-probl5ems)
+  - Quiz
+- [Product snippet](https://developers.google.com/search/docs/appearance/structured-data/product)
+  - Product
+  - Review
+  - Offer
+- [Profile page](https://developers.google.com/search/docs/appearance/structured-data/profile-page)
+  - ProfilePage
+- [Q&A page](https://developers.google.com/search/docs/appearance/structured-data/qapage)
+  - QAPage
+- [Recipe](https://developers.google.com/search/docs/appearance/structured-data/recipe)
+  - Recipe
+  - HowTo
+  - ItemList
+- [Review snippet](https://developers.google.com/search/docs/appearance/structured-data/review-snippet)
+  - Review
+  - AggregateRating
+- [Sitelinks searchbox](https://developers.google.com/search/docs/appearance/structured-data/sitelinks-searchbox)
+  - WebSite
+- [Software app](https://developers.google.com/search/docs/appearance/structured-data/software-app)
+  - SoftwareApplication
+- [Special Announcement](https://developers.google.com/search/docs/appearance/structured-data/special-announcements)
+  - SpecialAnnouncement
+- [Subscribed Content](https://support.google.com/news/publisher-center/answer/13062093)
+- [Vacation rental](https://developers.google.com/search/docs/appearance/structured-data/vacation-rental)
+  - VacationRental
+- [Vehicle listing](https://developers.google.com/search/docs/appearance/structured-data/vehicle-listing)
+  - Car
+- [Video](https://developers.google.com/search/docs/appearance/structured-data/video)
+  - VideoObject
+  - Clip
+  - BroadcastEvent 
+
 #### From "Semantic Web for Hugo" Project
 
 See https://github.com/Baseflow/HugoStructuredData
