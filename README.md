@@ -8,6 +8,8 @@ https://github.com/rappstack/domain--server has a jsonld module to render semant
 
 https://validator.schema.org
 
+https://search.google.com/test/rich-results/result
+
 ## References
 
 ### Google Supported Types
