@@ -4,6 +4,10 @@ UI library targeting the browser for displaying semantic data. This is not for r
 
 https://github.com/rappstack/domain--server has a jsonld module to render semantic data.
 
+## Validation
+
+https://validator.schema.org
+
 ## References
 
 ### Google Supported Types
