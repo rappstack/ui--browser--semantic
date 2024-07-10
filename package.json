@@ -25,7 +25,7 @@
 		"sigma": "^3.0.0-beta.11"
 	},
 	"devDependencies": {
-		"@types/jsonld": "^1.5.14",
+		"@types/jsonld": "^1.5.15",
 		"bun-types": "latest",
 		"graphology-types": "^0.24.7",
 		"schema-dts": "^1.1.2"
